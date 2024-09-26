@@ -1,4 +1,4 @@
-# Breadth-First-Search-Module
+# Breadth First Search Module
 ## Brief Explanation
 Breadth first search module can traverse over a directed acyclic graph (DAG) having a user defined maximum node number. Module sends visited node data to the output port at every clock cycle.  All adjacent nodes of a visited node can be stored in a queue in 1 clock cycle.
 ## Design Overview
